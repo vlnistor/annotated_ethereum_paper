@@ -1,1 +1,1 @@
-# annotated_ethereum_paper
+# Annotated Ethereum Yellow Papper
